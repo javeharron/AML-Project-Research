@@ -3,7 +3,7 @@
 
 The Drug Discovery Research Project is open source and free to use ([LICENSE](https://github.com/AMLResearchProject/AML-Classifiers/blob/master/LICENSE "LICENSE")) with the goals of researching and developing various Artificial Intelligence techniques to help detect AML and discover new drugs.
 
-The purpose of this project is to demonstrate an open source software framework for drug discovery and assessment. While there are complex, proprietary models used by major pharmaceutical companies, the scope of this project is far smaller. We aim to demonstrate a proof-of-concept system, with a tutorial and documentation. The system will demonstrate a GAN utilized in the context of chemical informatics. We hope this system form the basis for an anti-cancer computational chemistry model. The team is currently made up of:
+The purpose of this project is to demonstrate an open source software framework for drug discovery and perscription assessment. While there are complex, proprietary models used by major pharmaceutical companies, the scope of this project is far smaller. We aim to demonstrate a proof-of-concept system, with a tutorial and documentation. The system will demonstrate a GAN utilized in the context of chemical informatics. We hope this system form the basis for an anti-cancer computational chemistry model. The team is currently made up of:
 
 | Team Member  | Position |
 | ------------- | ------------- |
